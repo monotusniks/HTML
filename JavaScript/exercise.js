@@ -1,5 +1,5 @@
 // testing the code =
-console.log("hello Lets start the GAME by Guessing the correct Random Number")
+console.log("hello Lets start the GAME by Guessing the correct Random Number between 1-100")
 
 // generating random number
 
@@ -12,7 +12,7 @@ let score =0;
 
 for(let i=0; i<=50; i++){
 
-    let num = prompt("guess a number");
+    let num = prompt("guess a number b/w 1-100");
     num=parseInt(num)
     console.log("the entered number is "+ num)
 
