@@ -1,0 +1,6 @@
+** instructions for guess the number game **
+- This game is about guessing a randomly generated number.
+- Each time the game is started. A random number is generated, you have 100 chances to guess the number.
+- You will be provided with Hints, related to the number you entered. The game will guide you with hints like -> "The Number you entered is Less/Greater than the number you entered".
+- The more chances you opt, the lower the score will be.
+- At the end of the game you will be provided with the Scores out of 100, which is dependent on the number of attempts.
